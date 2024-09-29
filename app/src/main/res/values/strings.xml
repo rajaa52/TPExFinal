@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ma Formation</string>
+    <string name="app_name2">Mes informations</string>
+
+
+    <string name="titre">Veuillez remplir les champs suivants</string>
+    <string name="champ1">Nom et Prenom</string>
+    <string name="nom">Saisissez le nom</string>
+    <string name="champ2">Email</string>
+    <string name="email">Saisissez votre email</string>
+    <string name="champ3">Phone</string>
+    <string name="phone">Saisissez votre numèro </string>
+    <string name="champ4">Adresse</string>
+    <string name="adresse">aisissez votre adresse </string>
+    <string name="champ5">Ville</string>
+    <array name="villes">
+        <item>Rabat</item>
+        <item>Marrakech</item>
+        <item>Casablanca</item>
+        <item>El Jadida</item>
+        <item>Tanger</item>
+    </array>
+        <string name="submit">Envoyer</string>
+
+    <string name="mail">Email:  </string>
+    <string name="adress">Adresse:   </string>
+    <string name="name">Name:   </string>
+    <string name="telephone">Telephone:   </string>
+    <string name="city">Ville:   </string>
+
+</resources>
